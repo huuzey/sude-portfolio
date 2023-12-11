@@ -35,6 +35,11 @@ export const projects = [
     title: "Incredibly Edited Youtube video",
     desc: " Adobe Premiere Pro ",
   },
+   {
+    video: "https://youtube.com/shorts/3BqSlx88tP8?feature=share",
+    title: "Instagram reel for client",
+    desc: " Adobe after effect ",
+  },
   {
     video: "https://youtu.be/Mvc2yIbTvDg",
     title: "Incredibly Edited Youtube video",
